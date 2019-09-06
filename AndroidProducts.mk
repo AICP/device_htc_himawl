@@ -15,3 +15,8 @@
 
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/aicp_himawl.mk
+
+COMMON_LUNCH_CHOICES := \
+    aicp_himawl-user \
+    aicp_himawl-userdebug \
+    aicp_himawl-eng
