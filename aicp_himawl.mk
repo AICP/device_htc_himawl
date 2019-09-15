@@ -16,7 +16,7 @@ BUILD_FINGERPRINT := "htc/HTCOneM9vzw/htc_himawl:7.0/NRD90M/947620.11:user/relea
 
 # AICP Device Maintainers
 PRODUCT_BUILD_PROP_OVERRIDES += \
-     DEVICE_MAINTAINERS="Julian Veit (Claymore1297)"
+     DEVICE_MAINTAINERS="Julian Veit (Claymore1297), Joel Stein (k4y0z)"
 
 # Boot animation
 TARGET_SCREEN_HEIGHT := 1920
